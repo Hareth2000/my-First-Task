@@ -2,12 +2,12 @@
 
 # Welcome to Unity School 🌟
 
-** Unity School ** is a modern educational institution dedicated to nurturing excellence, creativity, and personal growth in students. Our mission is to provide a supportive and inspiring environment that prepares students for a bright and successful future.
+**[Unity School]** is a modern educational institution dedicated to nurturing excellence, creativity, and personal growth in students. Our mission is to provide a supportive and inspiring environment that prepares students for a bright and successful future.
 
 ---
 
 ## 🌍 About Us
-At ** Unity School **, we are committed to:
+At **[Unity School]**, we are committed to:
 - Offering **innovative curricula** and **interactive learning experiences**.
 - Providing state-of-the-art **facilities** for students and staff.
 - Encouraging **collaboration** and **community engagement**.
