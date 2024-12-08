@@ -44,4 +44,3 @@ At **[Unity School]**, we are committed to:
 ### 🚀 Built With:
 - **Figma** (for wireframes and prototyping)
 
-Feel free to contribute or reach out if you'd like to know more about our school or the development process!
